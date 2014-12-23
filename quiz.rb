@@ -1,8 +1,7 @@
 MAX = 13
 
 def _rand_sym
-  a = ['+', '-', '*', '*'] # I want extra multiplication
-  a[rand(a.length)]
+  ['+', '-', '*', '*'].sample # I want extra multiplication
 end
 
 continue = true
