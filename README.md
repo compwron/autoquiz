@@ -1,16 +1,19 @@
-Once upon a time there was a tiny math quiz on igoogle (defunct now) and I was kind of addicted to it. It would give you simple math problems and tell you how long you took. 
+Once upon a time there was a tiny math quiz on igoogle (defunct now) and I was kind of addicted to it. It would give you simple math problems and tell you how long you took.
 
-I searched the internet and found nothing that filled the craving, so here it is. 
+I searched the internet and found nothing that filled the craving, so here it is.
 
 Usage
-=== 
+===
 
 ```
 ruby quiz.rb
+
+# or
+python3 quiz.py
 ```
 
 Example play
-=== 
+===
 
 ```
 ruby quiz.rb
